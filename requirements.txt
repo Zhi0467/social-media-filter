@@ -1,0 +1,3 @@
+requests==2.31.0   # For making API calls to Twitter
+PyYAML==6.0        # For reading config files
+sqlite3            # Built-in Python module, listed for clarity
